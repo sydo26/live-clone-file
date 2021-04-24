@@ -10,7 +10,7 @@
     "livecf": "bin/live-clone-file"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
