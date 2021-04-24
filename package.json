@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@sydo26/live-clone-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clonar arquivos de uma local para outro sempre que houver uma modificação.",
   "main": "src/index.js",
   "bin": {
